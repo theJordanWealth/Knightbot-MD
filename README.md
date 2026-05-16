@@ -14,9 +14,38 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   </a> 
 </div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+</div>
 
-## 🚀 Steps to Deploy
+---
+<div>
+  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
+    <img src="assets/rapid.jpg" alt="RapidProxy" width="100%" />
+  </a>
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank"><b>RapidProxy</b></a> delivers fast, reliable proxy infrastructure for large-scale data operations. With high concurrency, non-expiring traffic, and AI-powered CAPTCHA bypass, it ensures efficient, uninterrupted data collection—trusted by developers worldwide.<br><br>
+  90M+ Residential IPs • Smart Rotation • High Success Rate • Built for Scale<br><br>
+  <b>Special Offer:</b> <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">Try it free</a> — Pricing from $0.65/GB with non-expiring traffic. Use code <b>RAPID10</b> for 10% off.
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://www.rapidproxy.io/?ref=Knightbot" target="_blank">
+    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
+  </a>
+</div>
+
+
+## 🚀 Steps to Deploy Bot
 
 ### Step 1: Fork the Repository
 
@@ -33,12 +62,6 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 ### Step 2: Get Pair Code
 
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
-
-<div align="center">
-  <a href="https://replit.com/@DGXeon/Xeon-PairCode?v=1" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
-  </a>
-</div>
 
 <div align="center">
   <a href="https://knight-bot-paircode.onrender.com" target="_blank">
@@ -64,8 +87,15 @@ For further customization and setup guidance, click the button below:
   </a>
 </div>
 
+### Deploy on VPS
 
-### Deploy Now on Below Panel
+<div align="center">
+  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
+    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
+  </a>
+</div>
+
+### Deploy on Below Panel
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
@@ -139,6 +169,25 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ---
 
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+</a>
+
+</div>
+
+If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
+
+<div align="center">
+
+<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+
+</div>
+
+---
 
 ## 📄 License
 
